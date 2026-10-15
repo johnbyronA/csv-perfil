@@ -1,0 +1,38 @@
+# Bytecode y caché
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Empaquetado
+build/
+dist/
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Secretos y configuración local (nunca subir)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+credentials*.json
+
+# Datos locales: solo se versiona examples/
+data/
+*.xlsx
+*.parquet
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
