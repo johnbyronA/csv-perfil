@@ -1,0 +1,9 @@
+fecha,producto,cantidad,precio_unitario,ciudad
+2026-01-05,Café,3,12500,Medellín
+2026-01-05,Arepa,10,2500,Bogotá
+2026-01-06,Café,,12500,Cali
+2026-01-07,Pandebono,6,1800,
+2026-01-08,Arepa,4,2500,Medellín
+2026-01-09,Chocolate,2,9800,Barranquilla
+2026-01-10,Café,5,NA,Medellín
+2026-01-11,Pandebono,8,1800,Bogotá
